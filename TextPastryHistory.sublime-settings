@@ -1,0 +1,93 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\i"
+			},
+			"key": "1bd7ee1ce72751da4e64129f6d32db41",
+			"label": "\\i"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "asd"
+				},
+				"command": "text_pastry_insert_text",
+				"text": "words asd"
+			},
+			"key": "4329e7ad6de4f7df2b414d985caa4343",
+			"label": "words asd"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "asd,ads,asd,"
+				},
+				"command": "text_pastry_insert_text",
+				"text": "words asd,ads,asd,"
+			},
+			"key": "b5b07b98a91c3c472a7b5c272a10a9c5",
+			"label": "words asd,ads,asd,"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "sada"
+				},
+				"command": "text_pastry_insert_text",
+				"text": "words sada"
+			},
+			"key": "30f2d7871754301e52e897b85e3fddf3",
+			"label": "words sada"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(10,1)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(10,1)"
+			},
+			"key": "ea9491510352dee025201ad87d436658",
+			"label": "\\i(10,1)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(10,-1)"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i(10,-1)"
+			},
+			"key": "678a800fbf5bed66ca65e45ff7572a52",
+			"label": "\\i(10,-1)"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "\\i(10,-1)"
+		},
+		"command": "text_pastry_step",
+		"text": "\\i(10,-1)"
+	}
+}

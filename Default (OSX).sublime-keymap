@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+alt+a"], "command": "alignment" },
+	{ "keys": ["alt+shift+i"], "command": "indent_and_braces", "args": { "from_cursor": true} },
+    { "keys": ["alt+shift+j"], "command": "indent_and_braces", "args": { "from_cursor": false} }
+]

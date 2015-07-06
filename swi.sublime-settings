@@ -1,0 +1,12 @@
+{
+	"breaks":
+	{
+		"/opt/local/www/htdocs/testmp4/index.html":
+		{
+			"97":
+			{
+				"status": "disabled"
+			}
+		}
+	}
+}

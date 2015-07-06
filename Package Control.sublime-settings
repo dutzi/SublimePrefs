@@ -1,0 +1,33 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ApplySyntax",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"HexViewer",
+		"Inc-Dec-Value",
+		"Indent and braces",
+		"JSCS-Formatter",
+		"MacTerminal",
+		"MarkdownEditing",
+		"Open Finder",
+		"Package Control",
+		"Pretty JSON",
+		"Random Everything",
+		"Sass",
+		"Seti_UI",
+		"Sort Lines (Numerically)",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"Text Pastry",
+		"Theme - Brogrammer",
+		"Theme - Spacegray"
+	]
+}

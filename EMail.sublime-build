@@ -1,0 +1,5 @@
+{ 
+    "cmd": ["python", "-u", "/~/Desktop/convert.py $file"],
+    "selector": "source.markdown",
+    "path": "/usr/local/lib/python"
+}

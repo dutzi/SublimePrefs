@@ -1,0 +1,48 @@
+{
+	"THE_OTHER_THEME":
+	{
+		"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+		"theme": "Spacegray.sublime-theme"
+	},
+	"auto_wrap_width": 80,
+	"binary_file_patterns":
+	[
+		"node_modules/",
+		"dist/",
+		"bower_components/",
+		".tmp/",
+		".sass-cache/"
+	],
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
+	"enable_hexadecimal_encoding": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".hg",
+		"CVS"
+	],
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Codecs33",
+		"CSS",
+		"Markdown",
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		-1
+	],
+	"show_full_path": true,
+	"theme": "Seti.sublime-theme"
+}
